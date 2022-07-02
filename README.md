@@ -1,2 +1,2 @@
 # BlogTerminal
-A simple shell for Windows.
+A simple shell like cmd for Windows.
