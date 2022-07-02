@@ -1,2 +1,2 @@
 # BlogTerminal
-A simple console based shell for Windows.
+A simple shell for Windows.
