@@ -108,7 +108,7 @@ func display_terminal_commands() {
 	fmt.Println("\t\ttype             <Display the filetype>")
 	fmt.Println("\t\tvolinfo          <Display the volume of the drive>")
 	fmt.Println("\t\ttree             <Display the folder structure>")
-	fmt.Println("\t\tcheckdisk        <Check the disk And report the staus(Administrator Required)>")
+	fmt.Println("\t\tcheckdisk        <Check the disk And report the status(Administrator Required)>")
 	fmt.Println("\t\teval             <Calculator>")
 	fmt.Println("\t\tpoweroff         <Shutdown>")
 	fmt.Println("\t\trestart          <Restart>")
