@@ -120,7 +120,7 @@ func display_terminal_commands() {
 	fmt.Println("\t\t\"                <To Concat one or more Arguments>")
 	fmt.Println("\t\tteleport,tele    <To set the working directory to a defined path>")
 	fmt.Println("\t\tsetcolor         <To change the theme color>")
-	fmt.Println("\t\trun              <To alias a path>")
+	fmt.Println("\t\trun              <Reference a path>")
 	fmt.Println("\t\tet               <Display the execution time for an application>")
 	fmt.Println("\t\tspawn,sp         <Spawn a new Thread to execute an Application>")
 	fmt.Println("\t\televate          <To execute an application by the super-user or admin>")
